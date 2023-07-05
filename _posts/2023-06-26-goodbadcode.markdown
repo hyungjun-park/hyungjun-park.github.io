@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[도서] Good Code, Bad Code - CHAPTER 1 코드 품질"
+title:  "[도서] Good Code, Bad Code - 1. 코드 품질"
 date:   2023-06-26 22:00:25 +0900
 categories: book
 ---
