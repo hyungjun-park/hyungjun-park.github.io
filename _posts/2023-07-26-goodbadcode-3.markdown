@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[도서] Good Code, Bad Code - 2. 추상화 계층"
+title:  "[도서] Good Code, Bad Code - 3. 다른 개발자와 코드 계약"
 date:   2023-07-26 19:37:00 +0900
 categories: book
 ---
